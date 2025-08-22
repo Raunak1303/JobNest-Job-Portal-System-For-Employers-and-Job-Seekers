@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is JobNest?",
+    "answer": "JobNest is a modern recruitment platform where companies can post openings and candidates can explore and apply for jobs. It is built to make the hiring process smooth and efficient for both employers and job seekers."
+  },
+  {
+    "question": "How can employers create a job post?",
+    "answer": "After logging in as an employer, go to the 'Post a Job' section. Fill in the required details such as title, description, and requirements, then publish your listing for candidates to view."
+  },
+  {
+    "question": "What is the best way to find jobs?",
+    "answer": "Job seekers can browse opportunities using the search bar or filters like location, role, and category. This helps narrow down results to find the most relevant jobs quickly."
+  },
+  {
+    "question": "How do I apply to a job?",
+    "answer": "Open the job listing you are interested in and click on the apply button. You may be asked to upload your resume, answer a few questions, or provide other details depending on the employers requirements."
+  },
+  {
+    "question": "Can I bookmark jobs to revisit later?",
+    "answer": "Yes, you can. Use the 'Save Job' option on any listing, and the saved jobs will be stored in your profile under the 'Saved Jobs' tab for easy access later."
+  },
+  {
+    "question": "Where can I track my applications?",
+    "answer": "You can monitor the progress of all your applications from the 'My Applications' section in your profile. It shows the current status and any updates from employers."
+  }
+]
