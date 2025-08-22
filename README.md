@@ -1,5 +1,10 @@
 # 🌐 JobNest - Job Portal Website
 
+## 🎥 Demo
+👉 [Click here to watch full demo video](https://drive.google.com/file/d/1uz6Y7ngqoxvFY_VcnNm84ZAkXHyYZNnr/view?usp=sharing)
+
+---
+
 ##  About
 **JobNest** is a job portal connecting **recruiters** and **candidates**.  
 Recruiters can **post jobs, manage applications, and track hiring**, while candidates can **search, apply, and manage profiles**.  
@@ -111,7 +116,7 @@ Candidates can update profile photo, change email, or delete account.
 
 ##  Tech Stack
 
-**Frontend:** React.js, Vite, Tailwind CSS, ShadCN UI  
+**Frontend:** React.js, Vite, Tailwind CSS, ShadCN UI, JavaScript/Typescript(Core Languages)  
 **Backend:** Supabase (PostgreSQL)  
 **Authentication:** Clerk  
 **Database:** PostgreSQL (Supabase)  
